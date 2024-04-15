@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name>New Benefit Days Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 00:29:06</sys_created_on>
+        <sys_id>624154c6932102104cbc7d1efaba1091</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Benefit Days Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_624154c6932102104cbc7d1efaba1091</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 00:29:06</sys_updated_on>
+        <title><![CDATA[<p><span style="font-size: 14pt;"><strong>New Benefit Days Properties</strong></span></p>
+<p><span style="font-size: 8pt;">These properties can be read and updated by users with the NeedIt application&#39;s admin role.</span></p>
+<p><span style="font-size: 8pt;">~$*$~</span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=624154c6932102104cbc7d1efaba1091"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>41b0635a1bde7d90c8432f8dee4bcbc9</instance_id>
+        <instance_name>dev206331</instance_name>
+        <name>sys_properties_category_624154c6932102104cbc7d1efaba1091</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt;New Benefit Days Properties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-04-15 00:29:06&lt;/sys_created_on&gt;&lt;sys_id&gt;624154c6932102104cbc7d1efaba1091&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;New Benefit Days Properties&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_624154c6932102104cbc7d1efaba1091&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-04-15 00:29:06&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;&lt;span style="font-size: 14pt;"&gt;&lt;strong&gt;New Benefit Days Properties&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 8pt;"&gt;These properties can be read and updated by users with the NeedIt application&amp;#39;s admin role.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="font-size: 8pt;"&gt;~$*$~&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=624154c6932102104cbc7d1efaba1091"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>591070378</payload_hash>
+        <record_name>New Benefit Days Properties</record_name>
+        <reverted_from/>
+        <source>adbc8f38932102104cbc7d1efaba103c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 00:29:06</sys_created_on>
+        <sys_id>7a22940a932102104cbc7d1efaba1056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18edf2855660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 00:29:06</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>7e22940abd210210a7a44eb02449a155</update_guid>
+        <update_guid_history>7e22940abd210210a7a44eb02449a155:591070378</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-15 00:41:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>55ea20b30b6a43e8a3738020db6a28f1</sys_id>
+        <sys_metadata>624154c6932102104cbc7d1efaba1091</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Benefit Days Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_624154c6932102104cbc7d1efaba1091</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_624154c6932102104cbc7d1efaba1091">7a22940a932102104cbc7d1efaba1056</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-15 00:41:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
